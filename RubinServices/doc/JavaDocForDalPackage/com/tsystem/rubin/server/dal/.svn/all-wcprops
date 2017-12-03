@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal
+END
+ILayerartDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal/ILayerartDAO.html
+END
+IKapazitaetsBedarfDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal/IKapazitaetsBedarfDAO.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal/package-frame.html
+END
+DAOInterface.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal/DAOInterface.html
+END
+IKanalrasterDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal/IKanalrasterDAO.html
+END
+ILszDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal/ILszDAO.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal/package-use.html
+END
+IKapazitaetsBereitstellungDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal/IKapazitaetsBereitstellungDAO.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal/package-tree.html
+END
+IKapazitaetDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/doc/JavaDocForDalPackage/com/tsystem/rubin/server/dal/IKapazitaetDAO.html
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/RUBINRD/!svn/ver/5622/trunk/CODEBASE/release20/RubinServices
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/.project
+END
+MANIFEST.MF
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/MANIFEST.MF
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/build.xml
+END

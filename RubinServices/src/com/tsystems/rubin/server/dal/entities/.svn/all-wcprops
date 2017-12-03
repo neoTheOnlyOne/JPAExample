@@ -1,0 +1,1745 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/RUBINRD/!svn/ver/5622/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities
+END
+InfoSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoSystem.java
+END
+TransPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/TransPermission.java
+END
+SlaAddonGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SlaAddonGroup.java
+END
+InfoCarrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoCarrier.java
+END
+InfoThContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoThContact.java
+END
+IhCableTerminati.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/IhCableTerminati.java
+END
+SatTransmissionSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SatTransmissionSystem.java
+END
+Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Window.java
+END
+LandLandBeziehun.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/LandLandBeziehun.java
+END
+InfoCablePK.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoCablePK.java
+END
+IstBestandteilVoPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/IstBestandteilVoPK.java
+END
+SstEndpNeuIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstEndpNeuIn.java
+END
+CalculationBasis.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CalculationBasis.java
+END
+LAbschnittherstel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/LAbschnittherstel.java
+END
+ParameterXTv.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ParameterXTv.java
+END
+DistributorFType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DistributorFType.java
+END
+OrderReason.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/OrderReason.java
+END
+OrderProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/OrderProcedure.java
+END
+WnIscc.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/WnIscc.java
+END
+Abfrage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Abfrage.java
+END
+GehoertZu0PK.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/GehoertZu0PK.java
+END
+SlaIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5271/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SlaIndividual.java
+END
+TransitionUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/TransitionUnit.java
+END
+ProtectedResourcePK.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ProtectedResourcePK.java
+END
+ConnectorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ConnectorType.java
+END
+GeneralNdsContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/GeneralNdsContact.java
+END
+ProtectedResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ProtectedResource.java
+END
+WirdHergestelltPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/WirdHergestelltPK.java
+END
+Site.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Site.java
+END
+Tunnel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Tunnel.java
+END
+Seekabelfinanzieru.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Seekabelfinanzieru.java
+END
+FaultCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/FaultCategory.java
+END
+InfoSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoSegment.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/package.html
+END
+LAbschnittkapazit.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/LAbschnittkapazit.java
+END
+RackType.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/RackType.java
+END
+InfoAnsprechpartn.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoAnsprechpartn.java
+END
+Instandhaltungsabk.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Instandhaltungsabk.java
+END
+HistoryNote.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/HistoryNote.java
+END
+OmsOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/OmsOrder.java
+END
+InfoFaultStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoFaultStatus.java
+END
+CapacityRequired.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CapacityRequired.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Service.java
+END
+Scenario.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Scenario.java
+END
+NgviSlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/NgviSlot.java
+END
+SstInfoInPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstInfoInPK.java
+END
+EqType.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/EqType.java
+END
+Terminal.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5437/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Terminal.java
+END
+InfoStructInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoStructInfo.java
+END
+SatPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SatPosition.java
+END
+ParameterXTvPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ParameterXTvPK.java
+END
+WindowObjectUsag.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/WindowObjectUsag.java
+END
+CarrierContactAssignments.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CarrierContactAssignments.java
+END
+SlaProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SlaProduct.java
+END
+ContactPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ContactPerson.java
+END
+FaultReason.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/FaultReason.java
+END
+Port.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Port.java
+END
+DistributorPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DistributorPoint.java
+END
+FaultProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/FaultProcedure.java
+END
+TribScheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/TribScheme.java
+END
+Routing.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5594/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Routing.java
+END
+InfoRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoRoom.java
+END
+IdentifyLetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/IdentifyLetter.java
+END
+DnaChannelassign.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaChannelassign.java
+END
+History.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/History.java
+END
+Eqa.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Eqa.java
+END
+BszPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/BszPermission.java
+END
+WirdHergestellt.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/WirdHergestellt.java
+END
+PostalAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/PostalAddress.java
+END
+Transitteilmenge.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Transitteilmenge.java
+END
+Customerid.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Customerid.java
+END
+HatAnsprechpartn0PK.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/HatAnsprechpartn0PK.java
+END
+FaultHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/FaultHandling.java
+END
+DnaEciPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaEciPort.java
+END
+ThContactType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ThContactType.java
+END
+KindOfService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/KindOfService.java
+END
+FaultHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/FaultHistory.java
+END
+DnaEciInv.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaEciInv.java
+END
+FaultStatusPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/FaultStatusPK.java
+END
+CardType.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CardType.java
+END
+Penalty.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Penalty.java
+END
+InfoCustomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoCustomer.java
+END
+SstNdsOmsOutPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstNdsOmsOutPK.java
+END
+SlaPrompt.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SlaPrompt.java
+END
+Abfragekriterium.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Abfragekriterium.java
+END
+Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Line.java
+END
+CustomerTerminal.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CustomerTerminal.java
+END
+ServiceParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ServiceParameter.java
+END
+Circuit.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5622/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Circuit.java
+END
+Restorationkompone.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Restorationkompone.java
+END
+Restorationkostene.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Restorationkostene.java
+END
+ArchiveStructInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ArchiveStructInfo.java
+END
+DnaEciTrailTlsegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaEciTrailTlsegment.java
+END
+Subnetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5435/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Subnetwork.java
+END
+Wire.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Wire.java
+END
+Vertragskapazitae0.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Vertragskapazitae0.java
+END
+City.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/City.java
+END
+DnaPhysporttbl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaPhysporttbl.java
+END
+SstInfoOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstInfoOut.java
+END
+TypeOfConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/TypeOfConnector.java
+END
+Restorationnutzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Restorationnutzer.java
+END
+Carriercode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Carriercode.java
+END
+KannZugeordnetSe.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/KannZugeordnetSe.java
+END
+RestorationGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/RestorationGroup.java
+END
+IhCable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/IhCable.java
+END
+GenColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/GenColumn.java
+END
+Nutzungsrechte.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Nutzungsrechte.java
+END
+SstCubaNdsInPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstCubaNdsInPK.java
+END
+Hat0.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Hat0.java
+END
+Nutzungskontingent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Nutzungskontingent.java
+END
+DistributorElemen.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DistributorElemen.java
+END
+BeziehtSichAuf0PK.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/BeziehtSichAuf0PK.java
+END
+InfoOrgeinheit.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoOrgeinheit.java
+END
+HatAnsprechpartne.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/HatAnsprechpartne.java
+END
+NdsSpimsAuftrag.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/NdsSpimsAuftrag.java
+END
+FaultRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5431/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/FaultRecord.java
+END
+DesignationSchemes.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DesignationSchemes.java
+END
+CarrierContactFuctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CarrierContactFuctions.java
+END
+DistributorFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DistributorFrame.java
+END
+Carrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5428/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Carrier.java
+END
+BeziehtSichAufPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/BeziehtSichAufPK.java
+END
+NgviNeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/NgviNeType.java
+END
+NgviKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/NgviKeywords.java
+END
+AliasDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/AliasDescription.java
+END
+FaultCauseOfIncident.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/FaultCauseOfIncident.java
+END
+IruKontingent.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/IruKontingent.java
+END
+TransitionUnitPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/TransitionUnitPoint.java
+END
+Gremium.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Gremium.java
+END
+Company.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Company.java
+END
+Card.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Card.java
+END
+Layer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/5432/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Layer.java
+END
+Sla.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Sla.java
+END
+InfoLinienabschni.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoLinienabschni.java
+END
+Region.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Region.java
+END
+CentralSystemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5523/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CentralSystemData.java
+END
+Network.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5272/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Network.java
+END
+InfoDistributorE.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoDistributorE.java
+END
+SstNdsCubaOutPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstNdsCubaOutPK.java
+END
+SstCubaNdsIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstCubaNdsIn.java
+END
+Interface.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Interface.java
+END
+InfoPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoPort.java
+END
+SstNdsCubaOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstNdsCubaOut.java
+END
+SmiKvi.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SmiKvi.java
+END
+OrderSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/OrderSequence.java
+END
+SlaAddonValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SlaAddonValues.java
+END
+ParameterXValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ParameterXValue.java
+END
+HatAnsprechpartnePK.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/HatAnsprechpartnePK.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5594/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Channel.java
+END
+LineSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5622/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/LineSegment.java
+END
+DnaEciTraildependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaEciTraildependency.java
+END
+FaultStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/FaultStatus.java
+END
+Rack.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Rack.java
+END
+ArchiveCircuitInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ArchiveCircuitInfo.java
+END
+SatChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SatChannel.java
+END
+ActivityAudit.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ActivityAudit.java
+END
+Terminalinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Terminalinfo.java
+END
+QualityParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/QualityParameter.java
+END
+Distributor0.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Distributor0.java
+END
+Branch.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Branch.java
+END
+IruNehmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/IruNehmer.java
+END
+PpHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/PpHistory.java
+END
+SmiGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SmiGroup.java
+END
+Landfuehrungsabsch.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Landfuehrungsabsch.java
+END
+LocalLoopSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/LocalLoopSection.java
+END
+CostType.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CostType.java
+END
+Waehrung.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Waehrung.java
+END
+DnaEciTrailtimeslots.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaEciTrailtimeslots.java
+END
+SstOmsNdsIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstOmsNdsIn.java
+END
+IstTransitendpunkPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/IstTransitendpunkPK.java
+END
+InfoInhouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoInhouse.java
+END
+NgviNetworkElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/NgviNetworkElement.java
+END
+LineType.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/LineType.java
+END
+IstTransitendpunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/IstTransitendpunk.java
+END
+DnaEqhCardassignPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaEqhCardassignPK.java
+END
+GenColAvailabe.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/GenColAvailabe.java
+END
+Capacity.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5426/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Capacity.java
+END
+SecurityVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SecurityVariables.java
+END
+Way.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RUBINRD/!svn/ver/5277/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Way.java
+END
+InfoLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoLine.java
+END
+Position.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Position.java
+END
+InfoEndpunkt.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoEndpunkt.java
+END
+SiteType.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SiteType.java
+END
+DnaSlottbl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaSlottbl.java
+END
+Leg.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Leg.java
+END
+SstEndpNeuOutPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstEndpNeuOutPK.java
+END
+Lsc.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RUBINRD/!svn/ver/5433/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Lsc.java
+END
+LocalLoopContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/LocalLoopContract.java
+END
+Tributary.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5443/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Tributary.java
+END
+InfoFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoFault.java
+END
+EndCustomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/EndCustomer.java
+END
+GenDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/GenDialog.java
+END
+IhCableType.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/IhCableType.java
+END
+SmiMaintenance.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SmiMaintenance.java
+END
+ContractLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ContractLink.java
+END
+Manufacturer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Manufacturer.java
+END
+GehoertZu0.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/GehoertZu0.java
+END
+InfoEigenschaft.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoEigenschaft.java
+END
+TelehouseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/TelehouseType.java
+END
+TypeOfContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/TypeOfContract.java
+END
+TeleContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/TeleContact.java
+END
+Equipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Equipment.java
+END
+Vertragskapazitaet.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Vertragskapazitaet.java
+END
+SfcInputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SfcInputs.java
+END
+GenColSelected.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/GenColSelected.java
+END
+LAbschnittfehler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/LAbschnittfehler.java
+END
+Transitland.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Transitland.java
+END
+Transit.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Transit.java
+END
+HatAnsprechpartn0.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/HatAnsprechpartn0.java
+END
+InfoDistributorEPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoDistributorEPK.java
+END
+Vertragsaenderung.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Vertragsaenderung.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Resource.java
+END
+SlaRecordIndividual.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/RUBINRD/!svn/ver/5271/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SlaRecordIndividual.java
+END
+Hat0PK.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Hat0PK.java
+END
+FaultGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/FaultGroup.java
+END
+Nutzungspartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Nutzungspartner.java
+END
+SmiDropgroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SmiDropgroup.java
+END
+CableForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CableForm.java
+END
+Costs.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Costs.java
+END
+InfoBearbeiterSecu.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoBearbeiterSecu.java
+END
+InfoKanal.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoKanal.java
+END
+Wahlstufe.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Wahlstufe.java
+END
+CrossConnect.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CrossConnect.java
+END
+CustomerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CustomerType.java
+END
+InfoRouting.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoRouting.java
+END
+InhouseRoutingSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InhouseRoutingSection.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5594/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Configuration.java
+END
+InfoAliasDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoAliasDescription.java
+END
+WindowObjectUsagPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/WindowObjectUsagPK.java
+END
+SstEndpNeuInPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstEndpNeuInPK.java
+END
+DnaPortassign.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaPortassign.java
+END
+SstInfoIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstInfoIn.java
+END
+Restorationkostenp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Restorationkostenp.java
+END
+SlaRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SlaRecord.java
+END
+Responsibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Responsibility.java
+END
+CircuitAccessCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CircuitAccessCode.java
+END
+SstEndpNeuOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstEndpNeuOut.java
+END
+IstBestandteilVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/IstBestandteilVo.java
+END
+InfoEquipment.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoEquipment.java
+END
+InfoCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoCard.java
+END
+SstNdsOmsOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstNdsOmsOut.java
+END
+LruCircuit.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/LruCircuit.java
+END
+HistoryStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/HistoryStatement.java
+END
+Customerclass.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Customerclass.java
+END
+SmiResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SmiResource.java
+END
+Country.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Country.java
+END
+Cable.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Cable.java
+END
+InfoCosts.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoCosts.java
+END
+SstInfoOutPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstInfoOutPK.java
+END
+StructuredInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/StructuredInformation.java
+END
+Permissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Permissions.java
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Room.java
+END
+Landfuehrung.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Landfuehrung.java
+END
+TypeOfInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/TypeOfInterface.java
+END
+CWO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RUBINRD/!svn/ver/5594/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/CWO.java
+END
+InfoSlaRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoSlaRecord.java
+END
+InfoRack.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoRack.java
+END
+Telehouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Telehouse.java
+END
+WiringUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/WiringUnit.java
+END
+DnaEqhCardassign.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaEqhCardassign.java
+END
+DistributorEleme0.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DistributorEleme0.java
+END
+Seekabelvertrag.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Seekabelvertrag.java
+END
+NgviStatusTranslations.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/NgviStatusTranslations.java
+END
+StructuredInformationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/StructuredInformationType.java
+END
+RoutingSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5357/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/RoutingSection.java
+END
+SmiDrop.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SmiDrop.java
+END
+BeziehtSichAuf0.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/BeziehtSichAuf0.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/5438/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/User.java
+END
+LscExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/LscExtension.java
+END
+IhCableWire.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/IhCableWire.java
+END
+InfoCable.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoCable.java
+END
+Instandhaltungskos.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Instandhaltungskos.java
+END
+Platform.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Platform.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Property.java
+END
+ThContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ThContact.java
+END
+DnaEciTrailinsegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/DnaEciTrailinsegment.java
+END
+GenColCombination.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/GenColCombination.java
+END
+BeziehtSichAuf.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/BeziehtSichAuf.java
+END
+SmiDrops.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SmiDrops.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Customer.java
+END
+ArchiveCircuit.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/ArchiveCircuit.java
+END
+InfoTelehouse.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoTelehouse.java
+END
+WorkingArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/WorkingArea.java
+END
+SecureSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SecureSection.java
+END
+Investition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Investition.java
+END
+SstOmsNdsInPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/SstOmsNdsInPK.java
+END
+InfoVerbindung.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/InfoVerbindung.java
+END
+KannZugeordnetSePK.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/KannZugeordnetSePK.java
+END
+LeadTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/LeadTime.java
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/Connector.java
+END
+UserGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5232/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/entities/UserGroup.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RUBINRD/!svn/ver/5622/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/transmodservices
+END
+CarrierServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/transmodservices/CarrierServiceFactory.java
+END
+NetworkServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/RUBINRD/!svn/ver/5272/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/transmodservices/NetworkServiceFactory.java
+END
+TerminalServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/transmodservices/TerminalServiceFactory.java
+END
+PathServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/RUBINRD/!svn/ver/5277/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/transmodservices/PathServiceFactory.java
+END
+CapacityServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/transmodservices/CapacityServiceFactory.java
+END
+SlaServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/RUBINRD/!svn/ver/5023/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/transmodservices/SlaServiceFactory.java
+END
+CircuitServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/transmodservices/CircuitServiceFactory.java
+END

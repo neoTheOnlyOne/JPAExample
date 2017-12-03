@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!--
+		<!DOCTYPE mappings PUBLIC "-//DOZER//DTD MAPPINGS//EN"
+		"http://dozer.sourceforge.net/dtd/dozerbeanmapping.dtd"> <mappings>
+	-->
+
+<mappings xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+	xmlns='http://dozer.sourceforge.net'
+	xsi:schemaLocation='http://dozer.sourceforge.net 
+                   http://dozer.sourceforge.net/schema/beanmapping.xsd'>
+
+	<configuration>
+		<stop-on-errors>true</stop-on-errors>
+		<date-format>MM/dd/yyyy</date-format>
+		<wildcard>true</wildcard>
+	</configuration>
+
+	<mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Lsc
+		</class-a>
+		<class-b>com.tsystems.rubin.server.refdatalsc.to.LscTO
+		</class-b>
+		<field>
+			<a>layer</a>
+			<b>layerTO</b>
+		</field>
+		<field>
+			<a>tribSchemes</a>
+			<b>tribSchemeTOCollection</b>
+		</field>
+		<field-exclude>
+			<a>capacitiesRequired</a>
+			<b>capacityRequiredTOCollection</b>
+		</field-exclude>
+	</mapping>
+
+	<mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.TribScheme
+		</class-a>
+		<class-b>com.tsystems.rubin.server.refdatalsc.to.TribSchemeTO
+		</class-b>
+		<field>
+			<a>lsc.id</a>
+			<b>lscTO.id</b>
+		</field>
+		<field-exclude>
+			<a>lsc</a>
+			<b>lscTO</b>
+		</field-exclude>
+		<field-exclude>
+			<a>tributaries</a>
+			<b>tributaryTOCollection</b>
+		</field-exclude>
+	</mapping>
+
+	<mapping map-id="HasNoParent" map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Tributary
+		</class-a>
+		<class-b>com.tsystems.rubin.server.refdatalsc.to.TributaryTO
+		</class-b>
+		<field-exclude>
+			<a>tribScheme</a>
+			<b>tribSchemeTO</b>
+		</field-exclude>
+		<field>
+			<a>tribScheme.id</a>
+			<b>tribSchemeTO.id</b>
+		</field>
+
+
+		<field-exclude>
+			<a>capacity</a>
+			<b>capacityTO</b>
+		</field-exclude>
+		<field>
+			<a>capacity.id</a>
+			<b>capacityTO.id</b>
+		</field>
+
+		<!-- Do not map child -->
+		<field-exclude>
+			<a>tributaries</a>
+			<b>tributaryTOCollection</b>
+		</field-exclude>
+
+		<!-- Do not map Parent -->
+		<field-exclude>
+			<a>tributary</a>
+			<b>parentTributaryTO</b>
+		</field-exclude>
+	</mapping>
+
+		<mapping map-id="HasParent" map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Tributary
+		</class-a>
+		<class-b>com.tsystems.rubin.server.refdatalsc.to.TributaryTO
+		</class-b>
+
+		<field-exclude>
+			<a>tribScheme</a>
+			<b>tribSchemeTO</b>
+		</field-exclude>
+
+		<field>
+			<a>tribScheme.id</a>
+			<b>tribSchemeTO.id</b>
+		</field>
+
+		<field-exclude>
+			<a>capacity</a>
+			<b>capacityTO</b>
+		</field-exclude>
+
+		<field>
+			<a>capacity.id</a>
+			<b>capacityTO.id</b>
+		</field>
+
+		<!-- Do not map child -->
+		<field-exclude>
+			<a>tributaries</a>
+			<b>tributaryTOCollection</b>
+		</field-exclude>
+
+		<!-- Do not map Parent -->
+		<field-exclude>
+			<a>tributary</a>
+			<b>parentTributaryTO</b>
+		</field-exclude>
+
+		<!-- Simply map parent's Primary Key -->
+		<field>
+			<a>tributary.id</a>
+			<b>parentTributaryTO.id</b>
+		</field>
+	</mapping>
+
+	<mapping map-id="FindTributaryByTribScheme" map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Tributary
+		</class-a>
+		<class-b>com.tsystems.rubin.server.refdatalsc.to.TributaryTO
+		</class-b>
+
+		<field-exclude>
+			<a>tribScheme</a>
+			<b>tribSchemeTO</b>
+		</field-exclude>
+
+		<field>
+			<a>tribScheme.id</a>
+			<b>tribSchemeTO.id</b>
+		</field>
+
+
+		<field-exclude>
+			<a>capacity</a>
+			<b>capacityTO</b>
+		</field-exclude>
+
+		<field>
+			<a>capacity.id</a>
+			<b>capacityTO.id</b>
+		</field>
+
+		<field>
+			<a>capacity.name</a>
+			<b>capacityTO.name</b>
+		</field>
+
+		<!-- Do not map child -->
+		<field-exclude>
+			<a>tributaries</a>
+			<b>tributaryTOCollection</b>
+		</field-exclude>
+
+		<!-- Do not map Parent -->
+		<field-exclude>
+			<a>tributary</a>
+			<b>parentTributaryTO</b>
+		</field-exclude>
+	</mapping>
+
+
+	<mapping map-id="FindTributaryByTributary" map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Tributary
+		</class-a>
+		<class-b>com.tsystems.rubin.server.refdatalsc.to.TributaryTO
+		</class-b>
+
+		<field-exclude>
+			<a>tribScheme</a>
+			<b>tribSchemeTO</b>
+		</field-exclude>
+
+		<field>
+			<a>tribScheme.id</a>
+			<b>tribSchemeTO.id</b>
+		</field>
+
+
+		<field-exclude>
+			<a>capacity</a>
+			<b>capacityTO</b>
+		</field-exclude>
+
+		<field>
+			<a>capacity.id</a>
+			<b>capacityTO.id</b>
+		</field>
+
+		<field>
+			<a>capacity.name</a>
+			<b>capacityTO.name</b>
+		</field>
+
+		<!-- Do not map child -->
+		<field-exclude>
+			<a>tributaries</a>
+			<b>tributaryTOCollection</b>
+		</field-exclude>
+
+		<!-- Do not map Parent -->
+		<field-exclude>
+			<a>tributary</a>
+			<b>parentTributaryTO</b>
+		</field-exclude>
+
+		<!-- Map only id of parent-->
+		<field>
+			<a>tributary.id</a>
+			<b>parentTributaryTO.id</b>
+		</field>
+	</mapping>
+	
+	<mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Layer
+		</class-a>
+		<class-b>com.tsystems.rubin.server.refdatalsc.to.LayerTO
+		</class-b>
+		<field-exclude>
+			<a>lscs</a>
+			<b>lscTOCollection</b>
+		</field-exclude>
+	</mapping>
+	
+	<mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Capacity
+		</class-a>
+		<class-b>com.tsystems.rubin.server.refdatalsc.to.CapacityTO
+		</class-b>
+		<field-exclude>
+			<a>tributaries</a>
+			<b>tributaryTOCollection</b>
+		</field-exclude>
+		<field-exclude>
+			<a>capacitiesRequired</a>
+			<b>capacityRequiredTOCollection</b>
+		</field-exclude>
+	</mapping>
+
+	<mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Resource
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.commonservices.usermgmt.to.ResourceTO
+		</class-b>
+		<field-exclude>
+			<a>description</a>
+			<b>description</b>
+		</field-exclude>
+	</mapping>
+	<mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.ProtectedResource
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.commonservices.usermgmt.to.ProtectedResourceTO
+		</class-b>
+		<field-exclude>
+			<a>hierarchy</a>
+			<b>hierarchy</b>
+		</field-exclude>
+		<field-exclude>
+			<a>level</a>
+			<b>level</b>
+		</field-exclude>
+		<field-exclude>
+			<a>resource</a>
+			<b>resourceTO</b>
+		</field-exclude>
+		<field>
+			<a>resource.name</a>
+			<b>resourceTO.name</b>
+		</field>
+		<field>
+			<a>userGroup</a>
+			<b>userGroupTO</b>
+		</field>
+
+	</mapping>
+	
+	<mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.UserGroup
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.commonservices.usermgmt.to.UserGroupTO
+		</class-b>
+		<field>
+			<a>protectedResources</a>
+			<b>protectedResourceTOCollection</b>
+		</field>
+	</mapping>
+
+	<mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.User
+		</class-a>
+		<class-b>com.tsystems.rubin.server.commonservices.usermgmt.to.UserTO
+		</class-b>
+		<field>
+			<a>userGroup</a>
+			<b>userGroupTO</b>
+		</field>
+	</mapping>
+
+	<mapping map-id="FindCircuitBySearchCriteria" map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Circuit
+		</class-a>
+		<class-b>com.tsystems.rubin.server.transmodservices.to.CircuitTO
+		</class-b>
+
+		<!-- Circuit -->
+		<field-exclude>
+			<a>circuit</a>
+			<b>circuitTO</b>
+		</field-exclude>
+		<!--  Circuit -->
+
+		<field>
+			<a>id</a>
+			<b>id</b>
+		</field>
+		<!-- Terminal A-->
+		<field>
+			<a>terminalA.id</a>
+			<b>terminalA.id</b>
+		</field>
+
+		<field>
+			<a>terminalA.referenceCode</a>
+			<b>terminalA.referenceCode</b>
+		</field>
+
+		<field>
+			<a>terminalA.description</a>
+			<b>terminalA.description</b>
+		</field>
+
+		<field>
+			<a>terminalA.ituSuffix</a>
+			<b>terminalA.ituSuffix</b>
+		</field>
+
+		<field>
+			<a>terminalA.customerTerminals[0].id
+			</a>
+			<b>terminalA.customerTerminalTO.id</b>
+		</field>
+
+		<field>
+			<a>terminalA.customerTerminals[0].name
+			</a>
+			<b>terminalA.customerTerminalTO.name
+			</b>
+		</field>
+		
+		<field>
+			<a>terminalA.carrier.id
+			</a>
+			<b>terminalA.carrierTO.id</b>
+		</field>
+
+		<field>
+			<a>terminalA.carrier.name
+			</a>
+			<b>terminalA.carrierTO.name
+			</b>
+		</field>
+		<!-- Terminal A-->
+
+		<!-- Terminal B-->
+		<field>
+			<a>terminalB.id</a>
+			<b>terminalB.id</b>
+		</field>
+
+		<field>
+			<a>terminalB.referenceCode</a>
+			<b>terminalB.referenceCode</b>
+		</field>
+
+		<field>
+			<a>terminalB.description</a>
+			<b>terminalB.description</b>
+		</field>
+
+		<field>
+			<a>terminalB.ituSuffix</a>
+			<b>terminalB.ituSuffix</b>
+		</field>
+
+		<field>
+			<a>terminalB.customerTerminals[0].id
+			</a>
+			<b>terminalB.customerTerminalTO.id</b>
+		</field>
+
+		<field>
+			<a>terminalB.customerTerminals[0].name
+			</a>
+			<b>terminalB.customerTerminalTO.name
+			</b>
+		</field>
+		
+		<field>
+			<a>terminalB.carrier.id
+			</a>
+			<b>terminalB.carrierTO.id</b>
+		</field>
+
+		<field>
+			<a>terminalB.carrier.name
+			</a>
+			<b>terminalB.carrierTO.name
+			</b>
+		</field>
+		<!-- Terminal B-->
+
+		<!-- Site A-->
+		<field>
+			<a>terminalA.site.id</a>
+			<b>terminalA.siteTO.id</b>
+		</field>
+
+		<field>
+			<a>terminalA.site.designationNational
+			</a>
+			<b>terminalA.siteTO.designationNational
+			</b>
+		</field>
+
+		<field>
+			<a>terminalA.site.siteId</a>
+			<b>terminalA.siteTO.siteId</b>
+		</field>
+
+		<field>
+			<a>terminalA.site.abbreviationNational
+			</a>
+			<b>terminalA.siteTO.abbreviationNational
+			</b>
+		</field>
+
+		<field>
+			<a>terminalA.site.vpz</a>
+			<b>terminalA.siteTO.vpz</b>
+		</field>
+		<!-- Site A-->
+
+		<!-- Site B-->
+		<field>
+			<a>terminalB.site.id</a>
+			<b>terminalB.siteTO.id</b>
+		</field>
+
+		<field>
+			<a>terminalB.site.designationNational
+			</a>
+			<b>terminalB.siteTO.designationNational
+			</b>
+		</field>
+
+		<field>
+			<a>terminalB.site.siteId</a>
+			<b>terminalB.siteTO.siteId</b>
+		</field>
+
+		<field>
+			<a>terminalB.site.abbreviationNational
+			</a>
+			<b>terminalB.siteTO.abbreviationNational
+			</b>
+		</field>
+
+		<field>
+			<a>terminalB.site.vpz</a>
+			<b>terminalB.siteTO.vpz</b>
+		</field>
+		<!-- Site B-->
+
+		<!-- Land A-->
+		<field>
+			<a>terminalA.site.city.country.id
+			</a>
+			<b>terminalA.siteTO.cityTO.countryTO.id
+			</b>
+		</field>
+		<field>
+			<a>terminalA.site.city.country.akz
+			</a>
+			<b>terminalA.siteTO.cityTO.countryTO.akz
+			</b>
+		</field>
+		<!-- Land A-->
+
+		<!-- Land B-->
+		<field>
+			<a>terminalB.site.city.country.id
+			</a>
+			<b>terminalB.siteTO.cityTO.countryTO.id
+			</b>
+		</field>
+		<field>
+			<a>terminalB.site.city.country.akz
+			</a>
+			<b>terminalB.siteTO.cityTO.countryTO.akz
+			</b>
+		</field>
+		<!-- Land B-->
+
+		<!-- City A-->
+		<field>
+			<a>terminalA.site.city.id</a>
+			<b>terminalA.siteTO.cityTO.id</b>
+		</field>
+		<field>
+			<a>terminalA.site.city.nkz</a>
+			<b>terminalA.siteTO.cityTO.nkz</b>
+		</field>
+		<!-- City A-->
+
+		<!-- City B-->
+		<field>
+			<a>terminalB.site.city.id</a>
+			<b>terminalB.siteTO.cityTO.id</b>
+		</field>
+		<field>
+			<a>terminalB.site.city.nkz</a>
+			<b>terminalB.siteTO.cityTO.nkz</b>
+		</field>
+		<!-- City B-->
+
+		<!-- Identify Letter-->
+		<field>
+			<a>identifyLetter.id</a>
+			<b>identifyLetterTO.id</b>
+		</field>
+		<field>
+			<a>identifyLetter.designation
+			</a>
+			<b>identifyLetterTO.designation
+			</b>
+		</field>
+		<!--Identify Letter-->
+
+		<!-- Subnetwork-->
+		<field>
+			<a>subnetwork.id</a>
+			<b>subnetworkTO.id</b>
+		</field>
+		<field>
+			<a>subnetwork.name</a>
+			<b>subnetworkTO.name</b>
+		</field>
+		<!--Subnetwork-->
+
+		<!-- Service-->
+		<field>
+			<a>service.id</a>
+			<b>serviceTO.id</b>
+		</field>
+		<field>
+			<a>service.designation
+			</a>
+			<b>serviceTO.designation</b>
+		</field>
+		<!--Service-->
+
+		<!-- Carrier-->
+		<field>
+			<a>carrier.id</a>
+			<b>carrierTO.id</b>
+		</field>
+		<field>
+			<a>carrier.name</a>
+			<b>carrierTO.name</b>
+		</field>
+		<!--Carrier-->
+
+		<!-- Start Date-->
+		<field>
+			<a>establishDate</a>
+			<b>establishDate</b>
+		</field>
+		<!-- Start Date-->
+		<!-- End Date-->
+		<field>
+			<a>disconnectionDate</a>
+			<b>disconnectionDate</b>
+		</field>
+		<!--End Date-->
+
+		<!-- OMS Order-->
+		<field>
+			<a>omsOrder.id
+			</a>
+			<b>omsOrderTO.id</b>
+		</field>
+		<field>
+			<a>omsOrder.omsId</a>
+			<b>omsOrderTO.omsId</b>
+		</field>
+		<field>
+			<a>omsOrder.orderType</a>
+			<b>omsOrderTO.orderType</b>
+		</field>
+		<field>
+			<a>omsOrder.dateN</a>
+			<b>omsOrderTO.dateN</b>
+		</field>
+		<field>
+			<a>omsOrder.dateZ</a>
+			<b>omsOrderTO.dateZ</b>
+		</field>
+		<field>
+			<a>omsOrder.state</a>
+			<b>omsOrderTO.state</b>
+		</field>
+		<!--OMS Order-->
+
+		<!-- SNO-->
+		<field>
+			<a>sno</a>
+			<b>circuitSNO</b>
+		</field>
+		<!--SNO-->
+
+		<!-- LSC Extension-->
+		<field>
+			<a>lscExtension.id
+			</a>
+			<b>lscExtensionTO.id</b>
+		</field>
+		<field>
+			<a>lscExtension.lscExtensionId
+			</a>
+			<b>lscExtensionTO.lscExtensionId</b>
+		</field>
+		<!--LSC Extension-->
+
+		<!-- LSC -->
+		<field>
+			<a>lsc.id
+			</a>
+			<b>lscTO.id</b>
+		</field>
+		<field>
+			<a>lsc.code
+			</a>
+			<b>lscTO.code</b>
+		</field>
+
+		<field>
+			<a>lsc.functionCode
+			</a>
+			<b>lscTO.functionCode</b>
+		</field>
+		<!--LSC -->
+
+		<!-- Additional Letter-->
+		<field>
+			<a>additionalLetter</a>
+			<b>additionalLetter</b>
+		</field>
+		<!--Additional Letter-->
+
+		<!-- End Customer -->	
+		
+		<field>
+			<a>endCustomers[0].name
+			</a>
+			<b>endCustomerTO.name</b>
+		</field>
+
+		<field>
+			<a>endCustomers[0].id
+			</a>
+			<b>endCustomerTO.id</b>
+		</field>
+		<!--  End Customer -->
+
+		<!-- Property -->
+		<field>
+			<a>properties[0].id</a>
+			<b>propertyTO.id</b>
+		</field>
+
+		<field>
+			<a>properties[0].name</a>
+			<b>propertyTO.name</b>
+		</field>
+		<!--  Property -->
+
+		<!-- Circuit -->
+		<field-exclude>
+			<a>circuit</a>
+			<b>circuitTO</b>
+		</field-exclude>
+		<!--  Circuit -->
+
+	</mapping>
+	
+	
+ <mapping map-id="FindCircuitForUpdate" map-null="false"
+		wildcard="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Circuit
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.transmodservices.to.UpdateCircuitTO
+		</class-b>
+
+		<field>
+			<a>establishDate</a>
+			<b>establishDate</b>
+		</field>
+
+		<field>
+			<a>disconnectionDate</a>
+			<b>disconnectionDate</b>
+		</field>
+
+		<field>
+			<a>cutOverDate</a>
+			<b>cutOverDate</b>
+		</field>
+
+		<field>
+			<a>cwos[0].bookCompletionDate</a>
+			<b>cwoBookCompletionDate</b>
+		</field>
+
+		<field>
+			<a>remark</a>
+			<b>remark</b>
+		</field>
+	</mapping>
+
+
+<mapping map-id="FindCarrierCustomerSlaOfCircuit" map-null="false"
+		wildcard="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Circuit
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.transmodservices.to.CarrierCustomerSlaTO
+		</class-b>
+
+		<field>
+			<a>carrier.name</a>
+			<b>carrierName</b>
+		</field>
+
+		<field>
+			<a>carrier.code</a>
+			<b>carrierCode</b>
+		</field>
+
+		<field>
+			<a>carrier.customerClass.customerClass
+			</a>
+			<b>customerClass</b>
+		</field>
+
+		<field>
+			<a>endCustomers[0].name</a>
+			<b>endCustomerName</b>
+		</field>
+
+		<field>
+			<a>endCustomers[0].network</a>
+			<b>endCustomerNetwork</b>
+		</field>
+	</mapping>
+
+	<mapping map-id="updateSubnetMapping" map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Subnetwork
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.commonbusinessservices.to.SubnetworkTO
+		</class-b>
+	</mapping>
+	
+	<mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.StructuredInformation
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.transmodservices.to.StructuredInformationTO
+		</class-b>
+		<field>
+			<a>id</a>
+			<b>id</b>
+		</field>
+		<field-exclude>
+			<a>structuredInformationType</a>
+			<b>structuredInformationTypeTO</b>
+		</field-exclude>
+		<field-exclude>
+			<a>circuit</a>
+			<b>circuitTO</b>
+		</field-exclude>
+		<field>
+			<a>structuredInformationType.id</a>
+			<b>structuredInformationTypeTO.id</b>
+		</field>
+		<field>
+			<a>circuit.id</a>
+			<b>circuitTO.id</b>
+		</field>
+	</mapping>
+  
+ <mapping map-null="false">
+		<class-a>
+			com.tsystems.rubin.server.dal.entities.StructuredInformationType
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.transmodservices.to.StructuredInformationTypeTO
+		</class-b>
+		<field-exclude>
+			<a>structuredInformations</a>
+			<b>structuredInformationTOs</b>
+		</field-exclude>
+	</mapping>
+  
+ <mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Circuit
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.transmodservices.to.TransportverbindunTO
+		</class-b>
+		<field>
+			<a>id</a>
+			<b>id</b>
+		</field>
+		<field-exclude>
+			<a>configurations</a>
+			<b>konfigurationTOCollection</b>
+		</field-exclude>
+		<field-exclude>
+			<a>structuredInformations</a>
+			<b>structInfoTOCollection</b>
+		</field-exclude>
+		<field-exclude>
+			<a>endCustomers</a>
+			<b>endCustomerTOCollection</b>
+		</field-exclude>
+		<field-exclude>
+			<a>circuits</a>
+			<b>transportverbindunTOCollection</b>
+		</field-exclude>
+		<field-exclude>
+			<a>terminals</a>
+			<b>endpunktTOCollection</b>
+		</field-exclude>
+		<field-exclude>
+			<a>subnetworks</a>
+			<b>subnetworkTOCollection</b>
+		</field-exclude>
+		<field-exclude>
+			<a>Properties</a>
+			<b>eigenschaftTOCollection</b>
+		</field-exclude>
+	</mapping>
+
+  
+ <mapping>
+		<class-a>com.tsystems.rubin.server.dal.entities.Service
+		</class-a>
+		<class-b>com.tsystems.rubin.server.transmodservices.to.ServiceTO
+		</class-b>
+		<field-exclude>
+			<a>circuits</a>
+			<b>transportverbindunTOCollection</b>
+		</field-exclude>
+	</mapping>
+  
+ <mapping map-id="updateCircuit" map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Carrier
+		</class-a>
+		<class-b>com.tsystems.rubin.server.transmodservices.to.CarrierTO
+		</class-b>
+		<field-exclude>
+			<a>customerClass</a>
+			<b>customerClassTO</b>
+		</field-exclude>
+		<field-exclude>
+			<a>country</a>
+			<b>country</b>
+		</field-exclude>
+		<field-exclude>
+			<a>telehouses</a>
+			<b>telehouseTOs</b>
+		</field-exclude>
+		<field-exclude>
+			<a>carrierCodes</a>
+			<b>carrierCodeTOs</b>
+		</field-exclude>
+		<field-exclude>
+			<a>terminals</a>
+			<b>terminalTOs</b>
+		</field-exclude>
+		<field-exclude>
+			<a>networks</a>
+			<b>netzwerkTOs</b>
+		</field-exclude>
+		<field-exclude>
+			<a>circuits</a>
+			<b>transportverbindunTOs</b>
+		</field-exclude>
+	</mapping>
+  
+ <mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Property
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.commonbusinessservices.to.PropertyTO
+		</class-b>
+		<field-exclude>
+			<a>circuits</a>
+			<b>transportverbindunTOs</b>
+		</field-exclude>
+	</mapping>
+	
+	
+  <mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Customerclass
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.transmodservices.to.CustomerclassTO
+		</class-b>
+	</mapping>
+	
+	
+ <mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Sla
+		</class-a>
+		<class-b>com.tsystems.rubin.server.transmodservices.to.SlaTO
+		</class-b>
+		<field-exclude>
+			<a>customerclass</a>
+			<b>customerclassTO</b>
+		</field-exclude>
+	</mapping>
+	
+	
+  <mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.SlaRecord
+		</class-a>
+		<class-b>com.tsystems.rubin.server.transmodservices.to.SlaRecordTO
+		</class-b>
+		<field-exclude>
+			<a>slaPrompt</a>
+			<b>slaPromptTO</b>
+		</field-exclude>
+		<field-exclude>
+			<a>slaAddonValues</a>
+			<b>slaAddonValueTO</b>
+		</field-exclude>
+	</mapping>
+	
+  <mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.SlaRecordIndividual
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.transmodservices.to.SlaRecordIndividualTO
+		</class-b>
+		<field-exclude>
+			<a>slaRecord</a>
+			<b>slaRecordTO</b>
+		</field-exclude>
+		<field>
+			<a>slaRecord.id</a>
+			<b>slaRecordTO.id</b>
+		</field>
+		<field-exclude>
+			<a>slaIndividual</a>
+			<b>slaIndividualTO</b>
+		</field-exclude>
+		<field>
+			<a>slaIndividual.id</a>
+			<b>slaIndividualTO.id</b>
+		</field>
+	</mapping>
+  
+  <mapping map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.LscExtension
+		</class-a>
+		<class-b>com.tsystems.rubin.server.transmodservices.to.LscExtensionTO
+		</class-b>
+		<field-exclude>
+			<a>slaProducts</a>
+			<b>slaProductTOs</b>
+		</field-exclude>
+		<field-exclude>
+			<a>circuits</a>
+			<b>circuitTOs</b>
+		</field-exclude>
+	</mapping>
+		
+<mapping map-id="insertCircuit" map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.Circuit
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.transmodservices.to.CircuitCreateTO
+		</class-b>
+		<field>
+			<a>company.id</a>
+			<b>fkCompanyId</b>
+		</field>
+		<field>
+			<a>lsc.id</a>
+			<b>fkLscId</b>
+		</field>
+		<field>
+			<a>carrier.id</a>
+			<b>fkCarrierId</b>
+		</field>
+		<field>
+			<a>customer.id</a>
+			<b>fkCustomerId</b>
+		</field>
+		<field>
+			<a>service.id</a>
+			<b>fkServiceId</b>
+		</field>
+		<field>
+			<a>terminalA.id</a>
+			<b>fkTerminalAId</b>
+		</field>
+		<field>
+			<a>terminalB.id</a>
+			<b>fkTerminalBId</b>
+		</field>
+		<field>
+			<a>identifyLetter.id</a>
+			<b>fkIdentifyLetterId</b>
+		</field>
+		<field>
+			<a>lscExtension.id
+			</a>
+			<b>fkLscExtensionId</b>
+		</field>
+
+		<field>
+			<a>omsOrder.id
+			</a>
+			<b>fkOmsOrderId</b>
+		</field>
+		<field>
+			<a>subnetwork.id</a>
+			<b>fkSubnetworkId</b>
+		</field>
+		<field>
+			<a>circuit.id
+			</a>
+			<b>fkCircuitId</b>
+		</field>
+
+		<field-exclude>
+			<a>network.id</a>
+			<b>fkNetworkId</b>
+		</field-exclude>
+
+		<field-exclude>
+			<a>way2.id</a>
+			<b>fkWayId</b>
+		</field-exclude>
+	</mapping>
+	
+	<mapping map-id="insertCircuitSlaIndividual" map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.SlaIndividual
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.transmodservices.to.SlaIndividualTO
+		</class-b>
+		<field>
+			<a>sla.id
+			</a>
+			<b>slaTO.id</b>
+		</field>
+		<field>
+			<a>name
+			</a>
+			<b>slaTO.name</b>
+		</field>
+		<field>
+			<a>circuit.id
+			</a>
+			<b>fkCircuitId</b>
+		</field>
+		
+	</mapping>
+	
+	<mapping map-id="centralSyetemDataMapping" map-null="false">
+		<class-a>com.tsystems.rubin.server.dal.entities.CentralSystemData
+		</class-a>
+		<class-b>
+			com.tsystems.rubin.server.transmodservices.to.CentralSystemDataTO
+		</class-b>
+		<field>
+			<a>id
+			</a>
+			<b>id</b>
+		</field>
+		<field>
+			<a>data2
+			</a>
+			<b>data2</b>
+		</field>
+		<field>
+			<a>year
+			</a>
+			<b>year</b>
+		</field>
+		
+	</mapping>
+	
+</mappings>

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/RUBINRD/!svn/ver/5622/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo
+END
+RoutingDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/RoutingDVO.java
+END
+CarrierDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/CarrierDVO.java
+END
+SlaRecordIndividualDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/RUBINRD/!svn/ver/5271/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/SlaRecordIndividualDVO.java
+END
+CentralSystemDataDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5523/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/CentralSystemDataDVO.java
+END
+SlaIndividualDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5271/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/SlaIndividualDVO.java
+END
+NetworkDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/NetworkDVO.java
+END
+RoutingSectionTypeInfoDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/RUBINRD/!svn/ver/5622/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/RoutingSectionTypeInfoDVO.java
+END
+IdentifyLetterDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/IdentifyLetterDVO.java
+END
+CapacityDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/CapacityDVO.java
+END
+WayDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/WayDVO.java
+END
+ServiceDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/ServiceDVO.java
+END
+CustomerDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/CustomerDVO.java
+END
+CircuitDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/5160/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/CircuitDVO.java
+END
+SubnetworkDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/4940/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/SubnetworkDVO.java
+END
+CrossConnectDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/4942/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/CrossConnectDVO.java
+END
+SiteDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/SiteDVO.java
+END
+StructuredInformationDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/StructuredInformationDVO.java
+END
+FaultRecordDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5160/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/FaultRecordDVO.java
+END
+TerminalDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/5309/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/TerminalDVO.java
+END
+LayerDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/LayerDVO.java
+END
+RoutingSectionDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/RoutingSectionDVO.java
+END
+StructuredInformationTypeDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/StructuredInformationTypeDVO.java
+END
+SlaDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/SlaDVO.java
+END
+LscDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/LscDVO.java
+END
+TransPermissionsDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/RUBINRD/!svn/ver/5140/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/TransPermissionsDVO.java
+END
+PropertyDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/PropertyDVO.java
+END
+TribSchemeDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/TribSchemeDVO.java
+END
+TributaryDVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5241/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/dvo/TributaryDVO.java
+END

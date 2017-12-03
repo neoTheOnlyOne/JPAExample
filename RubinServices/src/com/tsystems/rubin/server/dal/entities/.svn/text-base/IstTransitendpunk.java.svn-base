@@ -1,0 +1,36 @@
+package com.tsystems.rubin.server.dal.entities;
+
+import java.io.Serializable;
+
+import javax.persistence.EmbeddedId;
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="IST_TRANSITENDPUNK")
+public class IstTransitendpunk implements Serializable {
+	@EmbeddedId
+	private IstTransitendpunkPK istTransitendpunkPK;
+
+	private static final long serialVersionUID = 1L;
+
+	public IstTransitendpunk() {
+		super();
+	}
+
+	/**
+	 * @return the istTransitendpunkPK
+	 */
+	public IstTransitendpunkPK getIstTransitendpunkPK() {
+		return istTransitendpunkPK;
+	}
+
+	/**
+	 * @param istTransitendpunkPK the istTransitendpunkPK to set
+	 */
+	public void setIstTransitendpunkPK(IstTransitendpunkPK istTransitendpunkPK) {
+		this.istTransitendpunkPK = istTransitendpunkPK;
+	}
+
+	
+	}

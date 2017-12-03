@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/RUBINRD/!svn/ver/5622/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal
+END
+TerminalDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/TerminalDAO.java
+END
+LayerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/LayerDAO.java
+END
+LscDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/LscDAO.java
+END
+ActivityAuditDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/ActivityAuditDAO.java
+END
+TributaryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/TributaryDAO.java
+END
+TribSchemeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/TribSchemeDAO.java
+END
+LruCircuitDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/LruCircuitDAO.java
+END
+CarrierDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/CarrierDAO.java
+END
+RoutingDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/5242/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/RoutingDAO.java
+END
+CwoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RUBINRD/!svn/ver/5523/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/CwoDAO.java
+END
+IdentifyLetterDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/IdentifyLetterDAO.java
+END
+PathDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RUBINRD/!svn/ver/5277/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/PathDAO.java
+END
+CapacityRequiredDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/CapacityRequiredDAO.java
+END
+TransPermissionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/RUBINRD/!svn/ver/5140/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/TransPermissionDAO.java
+END
+ServiceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/ServiceDAO.java
+END
+ProtectedResourceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/ProtectedResourceDAO.java
+END
+HistoryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/HistoryDAO.java
+END
+SubnetworkDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/SubnetworkDAO.java
+END
+ChannelDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/5523/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/ChannelDAO.java
+END
+FaultRecordDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/5160/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/FaultRecordDAO.java
+END
+RoutingSectionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/RUBINRD/!svn/ver/5242/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/RoutingSectionDAO.java
+END
+StructuredInformationTypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/RUBINRD/!svn/ver/5242/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/StructuredInformationTypeDAO.java
+END
+GenericDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/GenericDAO.java
+END
+UserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/UserDAO.java
+END
+SlaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/RUBINRD/!svn/ver/5023/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/SlaDAO.java
+END
+PropertyDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/PropertyDAO.java
+END
+CentralSystemDataDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/5242/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/CentralSystemDataDAO.java
+END
+SlaRecordIndividualDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/RUBINRD/!svn/ver/5242/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/SlaRecordIndividualDAO.java
+END
+HistoryNoteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/HistoryNoteDAO.java
+END
+SlaIndividualDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5242/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/SlaIndividualDAO.java
+END
+NetworkDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/5272/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/NetworkDAO.java
+END
+JDBCDAOFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/JDBCDAOFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/package.html
+END
+CapacityDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/CapacityDAO.java
+END
+JPADAOFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/RUBINRD/!svn/ver/5523/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/JPADAOFactory.java
+END
+CircuitDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/5242/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/CircuitDAO.java
+END
+CrossConnectDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/RUBINRD/!svn/ver/4941/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/CrossConnectDAO.java
+END
+DAOFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/RUBINRD/!svn/ver/5523/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/DAOFactory.java
+END
+ConfigurationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/RUBINRD/!svn/ver/5523/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/ConfigurationDAO.java
+END
+StructuredInformationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5242/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/dal/StructuredInformationDAO.java
+END

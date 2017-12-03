@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/RUBINRD/!svn/ver/5622/trunk/CODEBASE/release20/RubinServices/src
+END
+dozerBeanMapping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/RUBINRD/!svn/ver/5527/trunk/CODEBASE/release20/RubinServices/src/dozerBeanMapping.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RUBINRD/!svn/ver/5421/trunk/CODEBASE/release20/RubinServices/src/log4j.properties
+END
+RubinServices.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/RubinServices.properties
+END
+dozer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/dozer.properties
+END

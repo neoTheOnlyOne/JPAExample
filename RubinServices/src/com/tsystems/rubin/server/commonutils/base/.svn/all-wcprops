@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/RUBINRD/!svn/ver/5525/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/commonutils/base
+END
+AuthenticationActivityEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/commonutils/base/AuthenticationActivityEnum.java
+END
+RubinMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/RUBINRD/!svn/ver/5525/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/commonutils/base/RubinMapper.java
+END
+ActivityAuditBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/commonutils/base/ActivityAuditBuilder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/com/tsystems/rubin/server/commonutils/base/package.html
+END

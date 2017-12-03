@@ -1,0 +1,98 @@
+<project name="RubinServices" default="all" basedir=".">
+	<target name="init">
+		<property name="src" location="${basedir}/src"/>
+		<property name="build" location="${basedir}/build"/>
+		<property name="AntBuiltclasses" value="AntBuiltclasses"/>
+		<property name="classes" location="${build}/${AntBuiltclasses}"/>
+		<property name="lib" location="${basedir}/lib"/>
+		<property name="dist" location="${basedir}/dist"/>
+
+		<property name="RubinServices.classes" location="${classes}" />
+		<property name="RubinServices.src" location="${src}" />
+		<property name="jarFile" value="${dist}/RubinServices.jar" />
+
+		<property name="RubinCommon" location="../RubinCommon"/>
+		<property name="RubinCommon.classes" location="${RubinCommon}/build/${AntBuiltclasses}"/>
+
+		<property name="RubinServicesInterface" location="../RubinServicesInterface"/>
+		<property name="RubinServicesInterface.classes" location="${RubinServicesInterface}/build/${AntBuiltclasses}"/>
+
+		<loadproperties srcfile="build.properties" />
+		<property name="ServerJEELibs" location="${OC4J_HOME}/j2ee/home/lib" />
+		<!--<property name="JPAProviderLibs" location="${OC4J_HOME}/hibernate" />-->
+		<property name="JPAProviderLibs" location="${OC4J_HOME}/toplink/jlib" />
+		<property name="WebserviceLibs" location="${OC4J_HOME}/webservices/lib" />
+		<property name="XMLParserLib" location="${OC4J_HOME}/lib/xmlparserv2.jar" />
+		<property name="DozerLibs" location="${lib}/dozer" />
+		<property name="LoggerLibs" location="${RubinCommon}/lib/log4J" />
+		<property name="ReportLibs" location="${RubinCommon}/lib/JasperReport" />
+
+		<ant description="Calling build file of RubinCommon Project" dir="${RubinCommon}" inheritall="false" target="all" />
+		<ant description="Calling build file of RubinServicesInterface Project" dir="${RubinServicesInterface}" inheritall="false" target="all" />
+
+		<path id="classpath">
+			<fileset dir="${ServerJEELibs}">
+				<include name="*.jar" />
+			</fileset>
+			<fileset dir="${JPAProviderLibs}">
+				<include name="*.jar" />
+			</fileset>
+			<fileset dir="${WebserviceLibs}">
+				<include name="*.jar" />
+			</fileset>
+			<fileset dir="${LoggerLibs}">
+				<include name="*.jar" />
+			</fileset>
+			<fileset dir="${ReportLibs}">
+				<include name="*.jar" />
+			</fileset>
+			<fileset dir="${DozerLibs}">
+				<include name="*.jar" />
+			</fileset>
+
+			<pathelement location="${XMLParserLib}" />
+			<pathelement path="${RubinCommon.classes}" />
+			<pathelement path="${RubinServicesInterface.classes}" />
+		</path>
+		<property name="build.classpath.property" refid="classpath" />
+		<echo>claspath jars : ${build.classpath.property}</echo>
+	</target>
+
+
+	<target name="buildClasses" depends="init">
+		<mkdir dir="${RubinServices.classes}" />
+		<javac srcdir="${RubinServices.src}" destdir="${RubinServices.classes}" encoding="8859_1">
+			<classpath refid="classpath" />
+		</javac>
+		<copy todir="${RubinServices.classes}">
+			<fileset dir="${RubinServices.src}">
+				<include name="*.properties" />
+				<include name="*.xml" />
+			</fileset>
+		</copy>
+		<copy todir="${RubinServices.classes}/META-INF">
+			<fileset dir="${RubinServices.src}/META-INF">
+				<include name="*.*" />
+			</fileset>
+		</copy>
+		<copy todir="${RubinServices.classes}/META-INF" file="MANIFEST.MF" overwrite="true"/>
+	</target>
+
+
+	<target name="buildJar" depends="init,clean,buildClasses">
+		<mkdir dir="${dist}" />
+		<jar destfile="${jarFile}" manifest="${basedir}/MANIFEST.MF">
+			<fileset dir="${RubinServices.classes}" />
+		</jar>
+	</target>
+
+
+	<target name="clean" depends="init">
+		<delete dir="${RubinServices.classes}" />
+		<delete dir="${dist}" />
+	</target>
+
+
+	<target name="all" depends="init,clean,buildClasses,buildJar" />
+
+</project>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/RUBINRD/!svn/ver/5441/trunk/CODEBASE/release20/RubinServices/src/META-INF
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/RUBINRD/!svn/ver/5441/trunk/CODEBASE/release20/RubinServices/src/META-INF/persistence.xml
+END
+MANIFEST.MF
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/META-INF/MANIFEST.MF
+END
+ejb-jar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/META-INF/ejb-jar.xml
+END
+orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RUBINRD/!svn/ver/4573/trunk/CODEBASE/release20/RubinServices/src/META-INF/orm.xml
+END
